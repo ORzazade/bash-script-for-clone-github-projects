@@ -1,0 +1,4 @@
+https://github.com/VurgusTeam/backend-api
+https://github.com/VurgusTeam/frontend-app
+https://github.com/VurgusTeam/mobile-app
+##end repos
